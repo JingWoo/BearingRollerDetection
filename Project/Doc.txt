@@ -1,0 +1,5 @@
+//添加精准延时函数
+void DelayDecUs(uint64_t TimeCount); //精确延时10us
+void DelayMs(uint64_t TimeCount); //精确延时1ms
+
+//UART 串口接收中断引导
